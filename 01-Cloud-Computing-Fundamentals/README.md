@@ -1,3 +1,5 @@
+![alt text for screen readers](/01-Cloud-Computing-Fundamentals/cloud-computing-fundamentals.png "Cloud computing Basics").
+
 # Cloud Computing Fundamentals
 
 > A practical introduction to cloud computing concepts, deployment models, and cloud service models, with an Azure-oriented perspective.
@@ -380,20 +382,3 @@ For an Azure-focused learning path, these concepts map naturally to services suc
 - **SaaS:** Microsoft 365 and other cloud-hosted software products
 
 Understanding the distinction between **deployment models** and **service models** is an important foundation for designing Azure solutions.
-
----
-
-## Further Learning
-
-Recommended next topics:
-
-- Azure Regions and Availability Zones
-- Azure Resource Groups
-- Azure subscriptions and management groups
-- Shared Responsibility Model
-- Azure Identity and Access Management
-- Azure networking fundamentals
-- Azure storage services
-- Azure compute services
-- Azure PaaS services
-- Azure monitoring and governance
